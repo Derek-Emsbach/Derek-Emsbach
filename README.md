@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate software engineer with a focus on building full-stack applications that focus on user experiences. I'm driven by the satisfaction of solving complex problems and bringing ideas to life through code. I've built several full-stack applications and I've gained hands-on experience with various technologies, including React, Redux, Express, Sequelize, Flask and Postgres.
+I'm a passionate software engineer with a focus on building full-stack applications that focus on user experiences. I'm driven by the satisfaction of solving complex problems and bringing ideas to life through code. I've built several full-stack applications and I've gained hands-on experience with various technologies, including React, Redux, Express, Sequelize, Flask and PostgreSQL.
 
 
 
