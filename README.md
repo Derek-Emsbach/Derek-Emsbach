@@ -2,6 +2,7 @@
 
 I'm a passionate software engineer with a focus on building full-stack applications that focus on user experiences. I'm driven by the satisfaction of solving complex problems and bringing ideas to life through code. I've built several full-stack applications and I've gained hands-on experience with various technologies, including Node.js, React, Redux, Python, Flask, Express, Sequelize, SQL, PostgreSQL, HTML, and CSS.
 
+## 🔧 Technologies & Tools
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="30" height="30"> 
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" width="30" height="30">
@@ -14,6 +15,13 @@ I'm a passionate software engineer with a focus on building full-stack applicati
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="30" height="30">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="30" height="30">
 </div>
+
+## 🚀 Projects
+
+Here are some of my recent projects:
+
+- [LevelUp](https://level-up-7k83.onrender.com/) ([Repo](https://github.com/Derek-Emsbach/level-up-games))
+
 
 
 
