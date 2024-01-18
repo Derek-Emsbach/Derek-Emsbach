@@ -45,7 +45,7 @@ Here are some of my recent projects:
 - Utilized React and Redux to create a dynamic and user-friendly front-end experience, while using Python and Flask to handle back-end functionality such as database management and API integration. 
 
 - Implemented the game and reviewed features, including integrating game logic, building a database schema, and constructing user authentication and authorization.
-###### Live Link [LevelUp](https://level-up-7k83.onrender.com/)         
+###### Live Link: [LevelUp](https://level-up-7k83.onrender.com/)         
 ###### GitHub [Repo](https://github.com/Derek-Emsbach/level-up-games)
 
 ### Pinspired 📌
@@ -54,7 +54,7 @@ Here are some of my recent projects:
 - Designed and implemented complicated relationships between pins, boards, and users, including mirroring the relationships found on Pinterest, and created a profile page that showcased users' boards and pins. 
 
 - Demonstrated stellar collaborative skills by working with a group of developers to complete this complex project, which closely mimics real-world development scenarios. Assumed the lead on all code reviews, feature implementation, and conflict resolution, while driving the project to it’s completion. 
-###### Live Link [Pinspired](https://pinspired.onrender.com/)             
+###### Live Link: [Pinspired](https://pinspired.onrender.com/)             
 ###### Github [Repo](https://github.com/Derek-Emsbach/pinteresting-group-project)
 
 
