@@ -60,7 +60,7 @@ Here are some of my recent projects:
 
 ## 🌐 Skills
 
-- React, React Native, JavaScript, REST, AWS, GIT
+- React, React Native, JavaScript, REST, AWS, GIT, MongoDB
 - Software Development, SQL, Python, CSS, Node.js, Redux, Express.js, Flask, PostgreSQL
 - Figma, JIRA, HTML5, Web Development, Skill Development, JSON, GitHub
 - Problem Solving, Software Development Life Cycle, API
