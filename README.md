@@ -69,7 +69,7 @@ Here are some of my recent projects:
 
 - Nothing beats Lofi versions of all the classic videogames. [Lofi Video Games](https://open.spotify.com/playlist/7hwqqdOd3AF3ilHoimrnfE?si=9c453bff8ea84ba3)
 - My go-to when I need to get pumped up and listen to my favorite Metal songs! [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv?si=b8189240bae64263)
-- Suprisingly amazing Lofi Beats! Also reminds me of watching Disney movies with my daughter. [Disney Lofi]([https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=de28668651aa40d8](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v?si=9yV3Bj8BRpOtzUG2m2PQPg))
+- Suprisingly amazing Lofi Beats! Also reminds me of watching Disney movies with my daughter. [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v?si=9yV3Bj8BRpOtzUG2m2PQPg)
 
 
 
